@@ -357,7 +357,7 @@ If you use this code in your research, please cite:
 
 ## License
 
-This project is licensed under the GNU General Public License v2.1 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v2.1 
 
 ## Acknowledgments
 
@@ -370,7 +370,7 @@ This project is licensed under the GNU General Public License v2.1 - see the [LI
 For questions or support:
 - **Lead Developer**: Betim Bahtiri
 - **Institution**: Leibniz Universität Hannover
-- **Email**: [contact information]
+- **Email**: betimbahtiri@outlook.de
 - **Issues**: Use GitHub issue tracker for bug reports and feature requests
 
 ---
